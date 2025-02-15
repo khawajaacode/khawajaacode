@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Babar Naseer</h1>
-<h3 align="center">Software Developer | Driven by Curiosity | Crafting Solutions</h3>
+<h3 align="center">Software Engineer </h3>
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **kh.babar.naseer@gmail.com**
 
